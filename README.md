@@ -1,5 +1,9 @@
 ﻿# Atividade-Front-End-Frameworks
 
+ Aluno: Isaac Gomes Lopes Lucena
+ Matrícula: 01817411
+ Nassau 2MA
+
  # 🎬 Catálogo de Filmes
 
 Bem-vindo ao projeto **Catálogo de Filmes**! Esta é uma aplicação web desenvolvida para gerenciar uma lista de filmes, permitindo visualizar, adicionar, editar e excluir títulos (CRUD completo).
@@ -37,3 +41,4 @@ Você precisa ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+
